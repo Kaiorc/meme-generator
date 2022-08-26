@@ -1,14 +1,6 @@
 import React from "react"
 
 export default function Meme() {
-    /**
-     * Challenge: 
-     * Try to figure out why our code is broken! 😞
-     * 
-     * Hint: it has to do with the difference between
-     * what we were importing before from memesData.js
-     * and what we're setting our state as with `allMemes`
-     */
     
     //Seta o state como um objeto e o inicializa com uma url base
     const [meme, setMeme] = React.useState({
