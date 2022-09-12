@@ -1,4 +1,4 @@
-# Airbnb Experiences Clone
+# Meme Generator
 
 ## Description:
 Meme Generator built in scrimba.com "Learn React for Free" class using React.js for practice
