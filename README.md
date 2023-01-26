@@ -4,7 +4,7 @@
 Meme Generator built in scrimba.com "Learn React for Free" class using React.js for practice
 
 ## React version:
-react-dom@17.0.2
+react-dom@17.0.2__
 react@17.0.2
 
 ## Quick start:
