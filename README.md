@@ -3,6 +3,10 @@
 ## Description:
 Meme Generator built in scrimba.com "Learn React for Free" class using React.js for practice
 
+React version:
+react-dom@17.0.2
+react@17.0.2
+
 ## Quick start:
 ```
 $ yarn # npm install
